@@ -2,6 +2,6 @@
 
 **GRR:** 20250662  
 **Disciplina:** Linguagens de Programação  
-**Conteúdo:** Exercícios Aula 2  
+**Conteúdo:** Exercícios Aula 3  
 
 Repositório com os exercícios da segunda aula da disciplina.
